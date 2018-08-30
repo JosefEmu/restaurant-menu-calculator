@@ -2,10 +2,6 @@
 A program to take a string input of numbers that represent different menu items.
 	- take multiple items
 	- calculate total of all items
-
-	*problems
-	- doesn't duplicate items in the receipt print out
-	- allow for use by multiple customers (OOP)
 """
 
 
