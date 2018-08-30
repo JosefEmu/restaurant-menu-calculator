@@ -1,7 +1,7 @@
 """
-A program to take a string input of numbers that represent different menu items.
-	- take multiple items
-	- calculate total of all items
+Address this problems
+ - doesn't duplicate items in the receipt print out
+ - allow for use by multiple customers without restarting the program everytime
 """
 
 
