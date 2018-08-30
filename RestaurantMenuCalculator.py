@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Address this problems
  - doesn't duplicate items in the receipt print out
